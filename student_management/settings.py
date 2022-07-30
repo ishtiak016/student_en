@@ -22,10 +22,10 @@ SECRET_KEY = 'django-insecure-=+_!a&g-(ao12xy580c7(la+d-#z5qln5a#y@%-ow&8m8@3kiv
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['http://labtechnico001.herokuapp.com/',
-'https://labtechnico001.herokuapp.com/',
-'labtechnico001.herokuapp.com',
-'labtechnico001.herokuapp.com/',
+ALLOWED_HOSTS = ['http://student016.herokuapp.com/',
+'https://student016.herokuapp.com/',
+'student016.herokuapp.com',
+'student016.herokuapp.com/',
 '127.0.0.1']
 
 
